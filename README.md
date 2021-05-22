@@ -28,6 +28,9 @@ This version is available for download with imgages files.
 
 To view the page, open the index.html file in your browser.
 
+:link: **Deploy**
+
+You can find this site on [SITE](https://infocovid.petramello.repl.co/)
 
 
 
